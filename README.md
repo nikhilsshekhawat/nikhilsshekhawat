@@ -2,13 +2,13 @@
 <h3 align="center"></h3>
 
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects.**
+- 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 💬 Researching on **Diffusion Models, Multimodal Intelligence**
 
 - 📫 How to reach me **shekhawat.n@northeastern.edu**
 
-- ⚡ Fun fact **I am from the future and I won the Turing Award**
+- ⚡ Fun fact **I taught my coffee mug sentiment analysis—it only smiles at espresso**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsshekhawat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsinghshekhawat2003@gmail.com) 
