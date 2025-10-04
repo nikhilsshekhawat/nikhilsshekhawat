@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shekhawat.n@northeastern.edu**
 
-- ⚡ Fun fact **I taught my coffee mug sentiment analysis—it only smiles at espresso**
+- ⚡ Fun fact **I taught my coffee mug sentiment analysis, it only smiles at Espresso**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsshekhawat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsinghshekhawat2003@gmail.com) 
@@ -26,7 +26,8 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilsshekhawat&theme=radical&utcOffset=8">
 </div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=nikhilsshekhawat&theme=dark&hide_border=false)<br/>
+<div align="center">
+![](https://nirzak-streak-stats.vercel.app/?user=nikhilsshekhawat&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsshekhawat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div><br>
 
