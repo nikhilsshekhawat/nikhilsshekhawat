@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nikhil !</h1>
+[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
+
+Hey, I'm Kanishk. This is my digital dumping ground where I throw random thoughts and occasionally something useful surfaces
+
+I survive on way too much coffee and spite (mostly spite), plus whatever energy drink is available. I have this weird obsession with collecting bugs in my code honestly at this point it's like rare pokemon cards but significantly more frustrating. Also GUIs and I have serious beef.
+
+My code is actually pretty clean (Marie Kondo would approve). I've got this growing pile of books that judge me silently while I put on whatever music matches my current chaos level and pretend I'm totally nailing this whole "productivity" thing. I'm not big on talking, so coding works better for me and when I need a screen break, I either go for a ride or watch whatever has me hooked.
+
+Warning: May contain traces of actual competence.
+
+I'm mostly available on nikhilsinghshekhawat2003@gmail.com
+<!--<h1 align="center">Hi 👋, I'm Nikhil !</h1>
 <h3 align="center"></h3>
 
 
