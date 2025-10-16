@@ -9,6 +9,8 @@ My code is actually pretty clean (Marie Kondo would approve). I've got this grow
 Warning: May contain traces of actual competence.
 
 I'm mostly available on nikhilsinghshekhawat2003@gmail.com
+
+[![PyPI version](https://badge.fury.io/py/versionio.svg)](https://pypi.org/project/versionio/0.1.0/)
 <!--<h1 align="center">Hi 👋, I'm Nikhil !</h1>
 <h3 align="center"></h3>
 
@@ -50,5 +52,3 @@ I'm mostly available on nikhilsinghshekhawat2003@gmail.com
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nikhilsshekhawat&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
-
-[![PyPI version](https://badge.fury.io/py/versionio.svg)](https://pypi.org/project/versionio/0.1.0/)
