@@ -50,3 +50,5 @@ I'm mostly available on nikhilsinghshekhawat2003@gmail.com
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nikhilsshekhawat&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+
+[![PyPI version](https://badge.fury.io/py/versionio.svg)](https://pypi.org/project/versionio/0.1.0/)
