@@ -6,9 +6,7 @@ I survive on way too much coffee and spite (mostly spite), plus whatever energy 
 
 My code is actually pretty clean (Marie Kondo would approve). I've got this growing pile of books that judge me silently while I put on whatever music matches my current chaos level and pretend I'm totally nailing this whole "productivity" thing. I'm not big on talking, so coding works better for me and when I need a screen break, I either go for a ride or watch whatever has me hooked.
 
-Warning: May contain traces of actual competence.
-
-I'm mostly available on nikhilsinghshekhawat2003@gmail.com
+I'm available on nikhilsinghshekhawat2003@gmail.com
 
 [![PyPI version](https://badge.fury.io/py/versionio.svg)](https://pypi.org/project/versionio/0.1.0/)
 <!--<h1 align="center">Hi 👋, I'm Nikhil !</h1>
